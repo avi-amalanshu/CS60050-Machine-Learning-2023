@@ -12,4 +12,4 @@ Each project has its own folder in the repository. Each folder is named as its c
 * A handy README file.
 
 All credit to Prof. Hazra and his TAs for the problem statements.
-Props to my batchmate [Anamitra Mukhopadhyay](http://cse.iitkgp.ac.in/~anamitra.mukhopadhyay/) for being an equal contributor on the first two projects, RVNB and HDSVM.
+Props to my batchmate [Anamitra Mukhopadhyay](http://cse.iitkgp.ac.in/~anamitra.mukhopadhyay/) for being an equal contributor on the first two projects, RVNB and HDSVM. The third, STHC-AS, was posed as a solo project.
