@@ -1,6 +1,6 @@
 # Project 2: Heart Disease Prediction using Support Vector Machines (HDSVM)
 ## Avi Amalanshu (20EC30063), Anamitra Mukhopadhyay (20CS30064), Chavle Abhishek Shivanand (22CS60R79)
-This project contains code for the project "Heart Disease Prediction using Support Vector Machines (HDSVM)". This is a part of the Machine Learning (CS60050) course offered at IIT Kharagpur in the Spring semester 2023.  The objective is to compare the performance between various kernel functions for SVM classification on a biological dataset.
+This repository contains code for the project "Heart Disease Prediction using Support Vector Machines (HDSVM)". This is a part of the Machine Learning (CS60050) course offered at IIT Kharagpur in the Spring semester 2023.  The objective is to compare the performance between various kernel functions for SVM classification on a biological dataset. The file ```ProblemStatement.pdf``` contains the precise problem statement for this project.
 ### If you are running the experiment on Google Colab
  You must ensure '```heart.csv```' (available [here](https://drive.google.com/drive/folders/1Sgv7ghbh9Z1DDztioCd_zMmYpVTV9woJ)) is in the Colab path. Upload it to your runtime using the folder icon on the left-hand side menu bar. Or, you may upload it to your Google Drive and [link Drive to Colab](https://towardsdatascience.com/different-ways-to-connect-google-drive-to-a-google-colab-notebook-pt-1-de03433d2f7a).
 1. Download the `Group31_HDSVM.ipynb` file to your local machine.
