@@ -1,4 +1,4 @@
-# Project 2: Heart Disease Prediction using Support Vector Machines (HDSVM)
+# Heart Disease Prediction using Support Vector Machines (HDSVM)
 ## Avi Amalanshu (20EC30063), Anamitra Mukhopadhyay (20CS30064), Chavle Abhishek Shivanand (22CS60R79)
 This repository contains code for the project "Heart Disease Prediction using Support Vector Machines (HDSVM)". This is a part of the Machine Learning (CS60050) course offered at IIT Kharagpur in the Spring semester 2023.  The objective is to compare the performance between various kernel functions for SVM classification on a biological dataset. The file ```ProblemStatement.pdf``` contains the precise problem statement for this project.
 ### If you are running the experiment on Google Colab
