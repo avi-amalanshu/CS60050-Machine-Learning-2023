@@ -1,6 +1,6 @@
 # Seed Type Determination Rating using Single Linkage Agglomerative (Bottom-Up) Clustering Technique (STHC-AS)
 ## Avi Amalanshu (20EC30063)
-This project contains code for the project "Seed Type Determination Rating using Single Linkage Agglomerative (Bottom-Up) Clustering Technique (STHC-AS)". This is a part of the Machine Learning (CS60050) course offered at IIT Kharagpur in the Spring semester 2023.  The objective is to compare clusters detected by bottom-up, single linkage agglomerative clustering with those detected by k-means clustering. We see that the single-linkage strategy makes the performance susceptible to outliers.
+This repository contains code for the project "Seed Type Determination Rating using Single Linkage Agglomerative (Bottom-Up) Clustering Technique (STHC-AS)". This is a part of the Machine Learning (CS60050) course offered at IIT Kharagpur in the Spring semester 2023.  The objective is to compare clusters detected by bottom-up, single linkage agglomerative clustering with those detected by k-means clustering. We see that the single-linkage strategy makes the performance susceptible to outliers. The file ```STHC-AS (Problem Statement).pdf``` contains the precise problem statement of the project.
 ### If you are running the experiment in Google Colab
 The code is plug-n-play for Google Colab.
 1. Download the `20EC30063_STHC-AS.ipynb` file to your local machine.
